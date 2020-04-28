@@ -4,7 +4,7 @@ import os
 import sys
 
 #BranchedeZiqiang
-#test
+#test hcuehic
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'SiteConfinement.settings')
