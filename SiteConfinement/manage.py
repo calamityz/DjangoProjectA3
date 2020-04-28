@@ -4,6 +4,7 @@ import os
 import sys
 
 #BranchedeZiqiang
+#test
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'SiteConfinement.settings')
